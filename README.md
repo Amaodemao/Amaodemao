@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi and welcome! This is Amaodemao，aka. Amao or 阿猫的猫. I'm a CSE student from CUHK!
 
 <!--
 **Amaodemao/Amaodemao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
