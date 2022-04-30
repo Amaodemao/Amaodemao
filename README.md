@@ -1,4 +1,6 @@
-## Hi and welcome! This is Amaodemao，aka. Amao or 阿猫的猫. I'm a CSE student from CUHK!
+### Hi and welcome! 
+This is Amaodemao，aka. Amao or 阿猫的猫.
+I'm a student from CUHK and I major in artificial inteligence.
 
 <!--
 **Amaodemao/Amaodemao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
