@@ -1,6 +1,6 @@
 ### Hi and Welcome to my cattery!
 
-I'm Haonan Bai, an undergraduate student majoring in AI at the Chinese University of Hong Kong.
+I'm Haonan Bai, an undergraduate CS student at the Chinese University of Hong Kong.
 
 You can call me Ben Bai, or, Amao（阿猫）.
 
