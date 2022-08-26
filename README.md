@@ -1,6 +1,8 @@
-### Hi and welcome! 
-This is Amaodemao，aka. Amao or 阿猫的猫.
-I'm a student from CUHK and I major in artificial inteligence.
+### Hi and Welcome to my cattery!
+
+I'm Haonan Bai, an undergraduate student majoring in AI at the Chinese University of Hong Kong.
+
+You can call me Ben Bai, or, Amao（阿猫）.
 
 <!--
 **Amaodemao/Amaodemao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
