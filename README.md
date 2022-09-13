@@ -1,4 +1,4 @@
-### Hi and Welcome to my cattery!
+### Hi and Welcome to my ~~cathouse~~ cattery!
 
 I'm Haonan Bai, an undergraduate CS student at the Chinese University of Hong Kong.
 
