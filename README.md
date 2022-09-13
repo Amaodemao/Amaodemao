@@ -1,8 +1,8 @@
-### Hi and Welcome to my ~~cathouse~~ cattery!
+### Hi and Welcome to my cattery!
 
 I'm Haonan Bai, an undergraduate CS student at the Chinese University of Hong Kong.
 
-You can call me Ben Bai, or, Amao（阿猫）.
+You can call me Ben Bai or Amao（阿猫）.
 
 <!--
 **Amaodemao/Amaodemao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
